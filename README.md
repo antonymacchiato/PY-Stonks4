@@ -1,4 +1,4 @@
-# Python File Organizer
+# Python File Organizer Mocco
 
 Automatically organize files in a directory by their extensions.
 
